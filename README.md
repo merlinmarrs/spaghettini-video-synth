@@ -11,3 +11,5 @@ This workshop is inspired by the improvisational music of Live coding (https://f
 Our video synthesis kit plugs in to the Arduino (https://www.arduino.cc/), a reprogrammable embedded micro-controller that can interact with the world through code, and uses the VGAX library (https://github.com/smaffer/vgax) to generate funky video.
 
 Meet other creative technologists and sharpen your expertise in computer sciences and electronics soldering!"
+
+**Thank you to Anna Offenwanger for the code !
